@@ -1,1 +1,2 @@
-console.log("HE")
+console.log("HE");
+document.write("HEEE");
